@@ -1,0 +1,9 @@
+
+train: ../train_data_2/images/train  
+val: ../train_data_2/images/val  
+test: ../train_data_2/images/test  
+
+# Classes
+nc: 2  # number of classes
+names: ['Droplet', 'Cell']  # class names
+
